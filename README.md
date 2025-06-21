@@ -40,7 +40,8 @@ python inference.py image_path /path/to/image.jpg
 
 📈 Learning Curve
 
-![Learning Curves]C:\Users\Dinesh Yadav\Downloads\download.png
+![Learning Curves]![download](https://github.com/user-attachments/assets/12ed1c3e-4086-409d-b47d-b158abac2526)
+
 
 
 📂 Files
