@@ -1,0 +1,2 @@
+with open("inference_transform.pkl", "wb") as f:
+    pickle.dump(valid_test_transform, f)
