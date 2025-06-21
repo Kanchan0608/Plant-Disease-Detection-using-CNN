@@ -52,4 +52,6 @@ python inference.py image_path /path/to/image.jpg
 * class_names.json: Class names
 * label_encoder.pkl: Label encoder
 * inference_transform.pkl: Transform for inference
+* learning_curves.png: Plot + save
+* requirements.txt: Dependencies
 * README.md: Project overview
