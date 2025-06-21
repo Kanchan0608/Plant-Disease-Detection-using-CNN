@@ -1,0 +1,5 @@
+import json
+
+# Assume label_encoder is your sklearn LabelEncoder trained on labels
+with open("class_names.json", "w") as f:
+    json.dump(list(label_encoder.classes_), f)
