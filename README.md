@@ -16,8 +16,8 @@ It uses the PlantVillage dataset with 20,000+ images across 15 classes.
 
 1️⃣ Clone the repo
 
-git clone https://github.com/Kanchan0608/Plant-Disease-Detection-using-CNN
-cd Plant-Disease-Detection-CNN
+git clone https://github.com/Kanchan0608/Plant-Disease-Detection-using-CNN-Model
+cd Plant-Disease-Detection-CNN-Model
 
 
 2️⃣ Install dependencies
